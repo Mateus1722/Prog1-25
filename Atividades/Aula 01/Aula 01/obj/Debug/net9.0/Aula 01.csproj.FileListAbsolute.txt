@@ -1,0 +1,98 @@
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\bin\Debug\net9.0\appsettings.json
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\bin\Debug\net9.0\Aula 01.staticwebassets.runtime.json
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\bin\Debug\net9.0\Aula 01.staticwebassets.endpoints.json
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\bin\Debug\net9.0\Aula 01.exe
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\bin\Debug\net9.0\Aula 01.deps.json
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\bin\Debug\net9.0\Aula 01.runtimeconfig.json
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\bin\Debug\net9.0\Aula 01.dll
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\bin\Debug\net9.0\Aula 01.pdb
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\Aula 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\Aula 01.AssemblyInfoInputs.cache
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\Aula 01.AssemblyInfo.cs
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\Aula 01.csproj.CoreCompileInputs.cache
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\Aula 01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\Aula 01.RazorAssemblyInfo.cache
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\Aula 01.RazorAssemblyInfo.cs
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\scopedcss\bundle\Aula 01.styles.css
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\scopedcss\projectbundle\Aula 01.bundle.scp.css
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\diiptl6o00-b9sayid5wm.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\l8rglvyhrl-61n19gt1b8.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\n13t8r7ee7-xtxxf3hu2r.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\0hkce0a41t-bqjiyaj88i.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\4uamohxj71-c2jlpeoesf.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\1x923ggoa9-erw9l3u2r3.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\cqt9np6y6r-aexeepp0ev.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\awylcuyenr-d7shbmvgxk.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\neu59ikuvp-ausgxo2sd3.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\ybyyly0j0a-k8d9w2qqmf.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\wzpbbq4nja-cosvhxvwiu.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\ivt4zgstqz-ub07r2b239.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\xi5qghp5fl-fvhpjtyr6v.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\1c262dlbn5-b7pk76d08c.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\n3ozhgg83u-fsbi9cje9m.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\d8j7cuchc3-rzd6atqjts.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\5a4b7cz2nn-ee0r1s7dh0.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\e07q3qty6z-dxx9fxp4il.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\o1te5pk8c5-jd9uben2k1.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\4300vqvnrz-khv3u5hwcm.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\jgik14hy41-r4e9w2rdcm.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\71z1t2six8-lcd1t2u6c8.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\wug11ir9wn-c2oey78nd0.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\aonrqk93bn-tdbxkamptv.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\775qf7eahn-j5mq2jizvt.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\ooz3v65oqc-06098lyss8.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\rl56hwn5s5-nvvlpmu67g.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\7rfks9es5m-s35ty4nyc5.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\16six21zyy-pj5nd1wqec.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\plz4dfe78z-46ein0sx1k.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\1fhm9yghu5-v0zj4ognzu.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\q5w552dnnw-37tfw0ft22.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\lep9ur1z9t-hrwsygsryq.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\5moq4f3gid-pk9g2wxc8p.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\wqx3kg8ykl-ft3s53vfgj.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\xyph642cbt-6cfz1n2cew.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\urhrkp0yql-6pdc2jztkx.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\t4eooxy7f9-493y06b0oq.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\5gfsygv2cq-iovd86k7lj.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\f8m8r6clvk-vr1egmr9el.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\30ub8wo1ud-kbrnm935zg.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\owasutmas4-jj8uyg4cgr.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\6rm96nk2kh-y7v9cxd14o.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\1ky6vqqoa2-notf2xhcfb.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\7gp8bqo6c6-h1s4sie4z3.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\kh740ri9db-63fj8s7r0e.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\anjrpm9kvj-0j3bgjxly4.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\75itazuqrl-47otxtyo56.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\bu9furbi4c-4v8eqarkd7.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\w3pvub1yn1-356vix0kms.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\f25810skf2-83jwlth58m.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\a2q0ildxi2-mrlpezrjn3.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\2osk8k2nf9-lzl9nlhx6b.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\p47w2xwnwf-ag7o75518u.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\y61u9f1ezd-x0q3zqp4vz.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\ng0iqa1j9h-0i3buxo5is.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\5d2m7jftn8-o1o13a6vjx.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\v60iu7jmoi-ttgo8qnofa.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\jm8w19xnmx-2z0ns9nrw6.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\2kvgbh9icw-muycvpuwrr.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\e7bmxdmk20-87fc7y1x7t.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\bj0tcig5bc-mlv21k5csn.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\rmec0mxq9h-jynod4b0gl.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\compressed\wvgbhtrb5i-jynod4b0gl.gz
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\staticwebassets\msbuild.Aula 01.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\staticwebassets\msbuild.Aula 01.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\staticwebassets\msbuild.build.Aula 01.props
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Aula 01.props
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Aula 01.props
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\Aula 01.dll
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\refint\Aula 01.dll
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\Aula 01.pdb
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\Aula 01.genruntimeconfig.cache
+C:\Users\419194\Desktop\Programação 1\Atividades\Aula 01\Aula 01\obj\Debug\net9.0\ref\Aula 01.dll
