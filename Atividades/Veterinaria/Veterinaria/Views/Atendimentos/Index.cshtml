@@ -1,0 +1,27 @@
+﻿@page
+@model Veterinaria.Views.Atendimentos.IndexModel
+@{
+}
+<h1>Lista de Atendimentos</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Data</th>
+            <th>Animal</th>
+            <th>Veterinário</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var atendimento in Model)
+        {
+            <tr>
+                <td>@atendimento.Data.ToShortDateString()</td>
+                <td>@atendimento.Animal?.Nome</td>
+                <td>@atendimento.Veterinario?.Nome</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="/Atendimentos/Novo" class="btn btn-primary">Novo Atendimento</a>
