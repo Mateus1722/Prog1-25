@@ -20,6 +20,11 @@
                 <tr>
                     <td>@customer.Id</td>
                     <td>@customer.Name</td>
+
+                    <td asp-action="ConfirmDelete" asp-controller="Customer" asp-route-id="@customer.Id" title="Excluir Customer" @customer.Name>
+                        <a class="fa fa-trash" aria-hidden="true"></a>
+                    </td>
+
                 </tr>    
             }
         </tbody>
@@ -38,8 +43,8 @@ else
     Exportar Delimitado
 </a>
 
-<a asp-action="ExportDelimitatedFile"
+<a asp-action="ExportFixedFile"
    asp-controller="Customer"
    class="btn btn-light">
-    Exportar Fixo
+    Exportar Fixado
 </a>

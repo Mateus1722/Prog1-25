@@ -11,11 +11,11 @@
         {
             bool isValid = true;
 
-            isValid =
-                !string.IsNullOrEmpty(this.Name) &&
-                (this.Id > 0) &&
+            isValid = 
+                !string.IsNullOrEmpty(this.Name) && 
+                (this.Id > 0) && 
                 (this.CurrentPrice > 0);
-
+            
             return isValid;
         }
 

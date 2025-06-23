@@ -1,4 +1,9 @@
-﻿using Modelo;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Modelo;
 
 namespace Repository
 {
@@ -18,7 +23,7 @@ namespace Repository
             List<Order> ret = [];
 
             foreach (Order o in CustomerData.Orders)
-                if (o.Customer.Name!.ToLower().Contains(name.ToLower()))
+                if (o.Customer!.Name!.ToLower().Contains(name.ToLower()))
                     ret.Add(o);
 
             return ret;
@@ -29,10 +34,10 @@ namespace Repository
             return CustomerData.Orders;
         }
 
-        public void Save(Order order)
+        public void Save(Customer customer)
         {
-            order.Id = Count + 1;
-            CustomerData.Orders.Add(order);
+            customer.Id = GetCount() + 1;
+            CustomerData.Customers.Add(customer);
         }
 
         public bool Delete(Order order)
@@ -52,14 +57,15 @@ namespace Repository
 
         public void Update(Order newOrder)
         {
-            Order oldOder = Retrieve(newOrder.Id);
-            oldOder.Customer = newOrder.Customer;
-            oldOder.OrderDate = newOrder.OrderDate;
-            oldOder.ShippingAddress = newOrder.ShippingAddress;
-            oldOder.OrderItems = newOrder.OrderItems;
-
+            Order oldOrder = Retrieve(newOrder.Id);
+            oldOrder.Id = newOrder.Id;
+            oldOrder.Customer = newOrder.Customer;
+            oldOrder.OrderDate = newOrder.OrderDate;
+            oldOrder.ShippingAddress = newOrder.ShippingAddress;
+            oldOrder.OrderItems = newOrder.OrderItems;
+            
         }
 
-        public int Count => CustomerData.Orders.Count;
+        public int GetCount() => CustomerData.Orders.Count;
     }
 }

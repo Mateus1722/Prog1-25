@@ -1,37 +1,26 @@
 ﻿@model Aula05.ViewModels.OrderViewModel
 
-
-@{
-    ViewData["Title"] = "Criar Pedido";
-}
-
 <div class="text-center">
     <h1>Cadastro de Pedido</h1>
 
     <div class="container">
 
-        <form id="formCustomer" method="post"
-        asp-action="Create"
-        asp-controller="Order">
+        <form id="formOrder" method="post"
+              asp-action="Create"
+              asp-controller="Order">
 
             <div class="row">
                 <div class="form-group">
-                    <label asp-for="@Model.CustomerId"> 
-                        Cliente
-                    </label>
-                    <select asp for ="@Model.CustomerId">
-                        @foreach (var c in Model.Customers)
-                        {
-                            <opition value="@c.Id"@c.Name></opition>
-                        }
+                    <label asp-for="CustomerId">Cliente:</label>
+                    <select asp-for="CustomerId" asp-items="@(new SelectList(Model.Customers, "Id", "Name"))" class="form-control">
+                        <option value="">Selecione um cliente</option>
                     </select>
-                 </div>
+                </div>
             </div>
 
-            <button id="btnCustomer"
+            <button id="btnOrder"
                     type="submit"
-                    class="btn btn-primary"
-                    value="Cadastrar">
+                    class="btn btn-primary">
                 Cadastrar
             </button>
 
